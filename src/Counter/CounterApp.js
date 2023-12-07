@@ -7,7 +7,7 @@ function CounterApp() {
   const dispatch = useDispatch();
 
   return (
-    <div className="container m- text-center ">
+    <div className="container  m-auto text-center ">
       <h1 className="bg-teal-500 font-bold text-2xl  py-4">
         React Redux Counter App
       </h1>
